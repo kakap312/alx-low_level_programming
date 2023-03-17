@@ -3,13 +3,10 @@
 #include <time.h>
 
 /**
-	 * main: This is the preferred style for multi-line
-	 * comments in C source code.
-	 * Please use it consistently.
-	 *
-	 * return:  A column of asterisks on the left side,
-	 * with beginning and ending almost-blank lines.
-	 */
+ * main - this is the main entry of the program
+ *
+ * Return: always xero is success
+ */
 int main(void)
 {
 	int n;
